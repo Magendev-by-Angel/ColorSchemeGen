@@ -1,0 +1,29 @@
+{
+	"name": "colorschemegen",
+	"version": "1.0.0",
+	"description": "this is a color scheme generator page",
+	"scripts": {
+		"dev": "next dev -H 0.0.0.0",
+		"build": "next build",
+		"lint": "next lint"
+	},
+	"keywords": [],
+	"author": "Magenz",
+	"license": "ISC",
+	"devDependencies": {
+		"@types/node": "^18.14.2",
+		"@types/react": "^18.0.28",
+		"typescript": "^4.9.5"
+	},
+	"dependencies": {
+		"@chakra-ui/icons": "^2.0.17",
+		"@chakra-ui/next-js": "^2.0.1",
+		"@chakra-ui/react": "^2.5.1",
+		"@emotion/react": "^11.10.6",
+		"@emotion/styled": "^11.10.6",
+		"framer-motion": "^10.0.1",
+		"next": "^13.2.1",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
